@@ -1,0 +1,34 @@
+ p{
+   color: #0066cc;
+   font-size: 97px;
+   text-align: center;
+   
+}
+
+img{
+	width: 100%;
+}
+.text{
+	color: black;
+	font-size:20px;
+	text-align: justify;
+	border:2px solid orange;
+	/*margin-top:20px;	
+	margin-bottom: 20px;*/
+	margin: 20px 0px;
+	padding: 5px 5px;
+	
+}
+.col-lg-3{
+	margin: 5px 0px;
+}
+.R{
+	width: 150px;
+}
+.g{
+	display: inline-block;
+
+}
+.logo{
+	margin:0px 50px;
+}
